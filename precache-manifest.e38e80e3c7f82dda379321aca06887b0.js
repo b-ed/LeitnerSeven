@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aec4cd8e90c6e645ee913e1e91515c77",
+    "revision": "1cee5819aebe5b17a638aca9ae106c8c",
     "url": "/LeitnerSeven/index.html"
   },
   {
-    "revision": "1ca8b84c28f6ee2f3185",
+    "revision": "e6fe8bbdcb61b2786eff",
     "url": "/LeitnerSeven/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "b6e9c75b95b1f55e76b3",
-    "url": "/LeitnerSeven/static/css/main.149c1e23.chunk.css"
+    "revision": "206b02a742f011b4c894",
+    "url": "/LeitnerSeven/static/css/main.40a75489.chunk.css"
   },
   {
-    "revision": "1ca8b84c28f6ee2f3185",
-    "url": "/LeitnerSeven/static/js/2.216f36a2.chunk.js"
+    "revision": "e6fe8bbdcb61b2786eff",
+    "url": "/LeitnerSeven/static/js/2.62383308.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/LeitnerSeven/static/js/2.216f36a2.chunk.js.LICENSE.txt"
+    "url": "/LeitnerSeven/static/js/2.62383308.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6e9c75b95b1f55e76b3",
-    "url": "/LeitnerSeven/static/js/main.040ef19d.chunk.js"
+    "revision": "206b02a742f011b4c894",
+    "url": "/LeitnerSeven/static/js/main.2848863f.chunk.js"
   },
   {
     "revision": "53f1f06e209083e443b4",
