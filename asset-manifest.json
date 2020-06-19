@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/LeitnerSeven/static/css/main.0adc9014.chunk.css",
+    "main.css": "/LeitnerSeven/static/css/main.eecf212a.chunk.css",
     "main.js": "/LeitnerSeven/static/js/main.20d094e1.chunk.js",
     "main.js.map": "/LeitnerSeven/static/js/main.20d094e1.chunk.js.map",
     "runtime-main.js": "/LeitnerSeven/static/js/runtime-main.c5fda03a.js",
@@ -9,10 +9,10 @@
     "static/js/2.7e459859.chunk.js": "/LeitnerSeven/static/js/2.7e459859.chunk.js",
     "static/js/2.7e459859.chunk.js.map": "/LeitnerSeven/static/js/2.7e459859.chunk.js.map",
     "index.html": "/LeitnerSeven/index.html",
-    "precache-manifest.32ef9e67ac97a5a8bc86b9f342925467.js": "/LeitnerSeven/precache-manifest.32ef9e67ac97a5a8bc86b9f342925467.js",
+    "precache-manifest.a1aa3bd1447e02a87dcc7c973a2255db.js": "/LeitnerSeven/precache-manifest.a1aa3bd1447e02a87dcc7c973a2255db.js",
     "service-worker.js": "/LeitnerSeven/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/LeitnerSeven/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.0adc9014.chunk.css.map": "/LeitnerSeven/static/css/main.0adc9014.chunk.css.map",
+    "static/css/main.eecf212a.chunk.css.map": "/LeitnerSeven/static/css/main.eecf212a.chunk.css.map",
     "static/js/2.7e459859.chunk.js.LICENSE.txt": "/LeitnerSeven/static/js/2.7e459859.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/LeitnerSeven/static/media/logo.84d8b93e.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.c5fda03a.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.7e459859.chunk.js",
-    "static/css/main.0adc9014.chunk.css",
+    "static/css/main.eecf212a.chunk.css",
     "static/js/main.20d094e1.chunk.js"
   ]
 }
