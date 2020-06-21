@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "549fe0dc652c91fb541671e3926a4909",
+    "revision": "a27c40833acb75edb28713568f056e35",
     "url": "/LeitnerSeven/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LeitnerSeven/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "c30d6eab9285f701e589",
+    "revision": "62ed9060e60c6fed53e5",
     "url": "/LeitnerSeven/static/css/main.ab711027.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LeitnerSeven/static/js/2.25dbeb3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c30d6eab9285f701e589",
-    "url": "/LeitnerSeven/static/js/main.48ced314.chunk.js"
+    "revision": "62ed9060e60c6fed53e5",
+    "url": "/LeitnerSeven/static/js/main.4645f42d.chunk.js"
   },
   {
     "revision": "53f1f06e209083e443b4",
