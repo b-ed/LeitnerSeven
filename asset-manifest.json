@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/LeitnerSeven/static/css/main.1e024709.chunk.css",
-    "main.js": "/LeitnerSeven/static/js/main.f1e43a35.chunk.js",
-    "main.js.map": "/LeitnerSeven/static/js/main.f1e43a35.chunk.js.map",
+    "main.css": "/LeitnerSeven/static/css/main.ab711027.chunk.css",
+    "main.js": "/LeitnerSeven/static/js/main.7f3f3a79.chunk.js",
+    "main.js.map": "/LeitnerSeven/static/js/main.7f3f3a79.chunk.js.map",
     "runtime-main.js": "/LeitnerSeven/static/js/runtime-main.c5fda03a.js",
     "runtime-main.js.map": "/LeitnerSeven/static/js/runtime-main.c5fda03a.js.map",
     "static/css/2.3c03f26f.chunk.css": "/LeitnerSeven/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7e459859.chunk.js": "/LeitnerSeven/static/js/2.7e459859.chunk.js",
-    "static/js/2.7e459859.chunk.js.map": "/LeitnerSeven/static/js/2.7e459859.chunk.js.map",
+    "static/js/2.25dbeb3a.chunk.js": "/LeitnerSeven/static/js/2.25dbeb3a.chunk.js",
+    "static/js/2.25dbeb3a.chunk.js.map": "/LeitnerSeven/static/js/2.25dbeb3a.chunk.js.map",
     "index.html": "/LeitnerSeven/index.html",
-    "precache-manifest.647434c512cc442b19cc44c765240199.js": "/LeitnerSeven/precache-manifest.647434c512cc442b19cc44c765240199.js",
+    "precache-manifest.7661a2c963909e6be4f8f16ac19ead9b.js": "/LeitnerSeven/precache-manifest.7661a2c963909e6be4f8f16ac19ead9b.js",
     "service-worker.js": "/LeitnerSeven/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/LeitnerSeven/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.1e024709.chunk.css.map": "/LeitnerSeven/static/css/main.1e024709.chunk.css.map",
-    "static/js/2.7e459859.chunk.js.LICENSE.txt": "/LeitnerSeven/static/js/2.7e459859.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/LeitnerSeven/static/media/logo.84d8b93e.png"
+    "static/css/main.ab711027.chunk.css.map": "/LeitnerSeven/static/css/main.ab711027.chunk.css.map",
+    "static/js/2.25dbeb3a.chunk.js.LICENSE.txt": "/LeitnerSeven/static/js/2.25dbeb3a.chunk.js.LICENSE.txt",
+    "static/media/l-hover.png": "/LeitnerSeven/static/media/l-hover.1c1a01db.png",
+    "static/media/l.png": "/LeitnerSeven/static/media/l.93ba60b0.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c5fda03a.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.7e459859.chunk.js",
-    "static/css/main.1e024709.chunk.css",
-    "static/js/main.f1e43a35.chunk.js"
+    "static/js/2.25dbeb3a.chunk.js",
+    "static/css/main.ab711027.chunk.css",
+    "static/js/main.7f3f3a79.chunk.js"
   ]
 }
